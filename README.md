@@ -1,1 +1,2 @@
 # TicTacToe
+This is a simple two player Tic tac toe game which returns the winning msg for the respective winner and if all boxes fill up but still we don't have a winner it will simply return draw this was made using javascript.
